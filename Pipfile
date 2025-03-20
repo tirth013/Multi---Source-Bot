@@ -1,0 +1,32 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+langchain-cli = "*"
+langchain-core = "*"
+langgraph = "*"
+langchain-text-splitters = "*"
+tavily-python = "*"
+tiktoken = "*"
+beautifulsoup4 = "*"
+lxml = "*"
+sqlalchemy = "*"
+streamlit = "*"
+langchain = "*"
+langchain-community = "*"
+langchain-groq = "*"
+langchain-huggingface = "*"
+faiss-cpu = "*"
+pypdf = "*"
+python-dotenv = "*"
+torch = "*"
+torchvision = "*"
+torchaudio = "*"
+sentence-transformers = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
