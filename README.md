@@ -28,7 +28,7 @@ Below is a screenshot of the Multi-Source Research Assistant in action:
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/tirth013/MultiSourceBot.git
+https://github.com/tirth013/Multi-Source-Bot.git
 cd MultiSourceBot
 ```
 
@@ -50,7 +50,7 @@ pipenv shell
 
 ### 4. Run the Application
 ```sh
-streamlit run app.py
+pipenv run streamlit run app.py
 ```
 
 ## Contributions
