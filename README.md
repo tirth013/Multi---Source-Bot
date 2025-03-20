@@ -19,7 +19,8 @@ Screenshot
 
 Below is a screenshot of the Multi-Source Research Assistant in action:
 
-![image](https://github.com/user-attachments/assets/0ab88007-eadb-4653-8595-ab232139184d)
+![image](https://github.com/user-attachments/assets/a7b62833-3176-4234-8fc0-c11081f78f5c)
+
 
 
 
